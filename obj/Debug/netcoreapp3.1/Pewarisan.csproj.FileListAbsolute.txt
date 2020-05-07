@@ -1,0 +1,13 @@
+E:\Kuliah\semester 2\Pemprograman\Pewarisan\Pewarisan\obj\Debug\netcoreapp3.1\Pewarisan.csprojAssemblyReference.cache
+E:\Kuliah\semester 2\Pemprograman\Pewarisan\Pewarisan\obj\Debug\netcoreapp3.1\Pewarisan.csproj.CoreCompileInputs.cache
+E:\Kuliah\semester 2\Pemprograman\Pewarisan\Pewarisan\obj\Debug\netcoreapp3.1\Pewarisan.AssemblyInfoInputs.cache
+E:\Kuliah\semester 2\Pemprograman\Pewarisan\Pewarisan\obj\Debug\netcoreapp3.1\Pewarisan.AssemblyInfo.cs
+E:\Kuliah\semester 2\Pemprograman\Pewarisan\Pewarisan\bin\Debug\netcoreapp3.1\Pewarisan.exe
+E:\Kuliah\semester 2\Pemprograman\Pewarisan\Pewarisan\bin\Debug\netcoreapp3.1\Pewarisan.deps.json
+E:\Kuliah\semester 2\Pemprograman\Pewarisan\Pewarisan\bin\Debug\netcoreapp3.1\Pewarisan.runtimeconfig.json
+E:\Kuliah\semester 2\Pemprograman\Pewarisan\Pewarisan\bin\Debug\netcoreapp3.1\Pewarisan.runtimeconfig.dev.json
+E:\Kuliah\semester 2\Pemprograman\Pewarisan\Pewarisan\bin\Debug\netcoreapp3.1\Pewarisan.dll
+E:\Kuliah\semester 2\Pemprograman\Pewarisan\Pewarisan\bin\Debug\netcoreapp3.1\Pewarisan.pdb
+E:\Kuliah\semester 2\Pemprograman\Pewarisan\Pewarisan\obj\Debug\netcoreapp3.1\Pewarisan.dll
+E:\Kuliah\semester 2\Pemprograman\Pewarisan\Pewarisan\obj\Debug\netcoreapp3.1\Pewarisan.pdb
+E:\Kuliah\semester 2\Pemprograman\Pewarisan\Pewarisan\obj\Debug\netcoreapp3.1\Pewarisan.genruntimeconfig.cache
